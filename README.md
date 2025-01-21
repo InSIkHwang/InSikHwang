@@ -26,11 +26,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
   - 마이페이지(예매확인, 후기, 사용자 기기 등록/수정)
   - 관리자페이지(후기), 총괄
     
-- **SIKFLIX:** [SIKFLIX]([link-to-repo](https://insikhwang.github.io/Sikflix/))
+- **SIKFLIX:** [SIKFLIX][(link-to-repo)](https://github.com/InSIkHwang/Sikflix)
   - 영화, TV시리즈 검색 사이트 "SIKFLIX"는 사용자가 영화 정보를 쉽게 검색하고 조회할 수 있도록 제작된 프로젝트입니다.
   - 컨텐츠 검색, 컨텐츠 상세 정보 조회, 인기 컨텐츠 목록, 장르별 컨텐츠 목록 등
 
-- **Portfolio Page:** [SIKFLIX]([link-to-repo](https://insikhwang.github.io/Portfolio#works))
+- **Portfolio Page:** [Portfolio Page][(link-to-repo)](https://github.com/InSIkHwang/Portfolio)
   - 개인 포트폴리오 웹 사이트입니다.
 
 ## 📫 How to Reach Me
