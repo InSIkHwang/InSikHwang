@@ -36,7 +36,3 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ## 📫 How to Reach Me
 
 - Email: [hwanginsik98a@gmail.com](mailto:hwanginsik98a@gmail.com)
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=InSIkHwang&show_icons=true&theme=radical)
