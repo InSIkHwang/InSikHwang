@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=INSIK's%20Github!&fontSize=90&animation=fadeIn)
 
-Welcome! 👋 I am a front-end developer.  
+# Hi there, I'm InSIkHwang! 👋
 
 Check My Portfolio Page (https://insikhwang.github.io/Portfolio/)
 
@@ -15,3 +15,28 @@ Skills👇
 Tools👇  
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+Welcome to my GitHub profile! I'm a passionate developer with a love for coding and continuous learning. Here’s a little bit about me:
+
+## 🔭 Projects and Contributions
+
+- **Ticketpong:** [Ticketpong][(link-to-repo)](https://github.com/Ticketpong)
+  - 멀티잇 프론트엔드 개발자 프로그램 참여 중 진행한 티켓 할인 예매 사이트 "티켓퐁"입니다. 티켓 예매 사이트 티켓퐁은 독점 방지를 위한 예매사이트 분산의 필요성과 소비자 편의성 제공을 목적으로 시작한 프로젝트입니다.
+  - 상세페이지(예매, 결제, 상세)
+  - 마이페이지(예매확인, 후기, 사용자 기기 등록/수정)
+  - 관리자페이지(후기), 총괄
+    
+- **SIKFLIX:** [SIKFLIX]([link-to-repo](https://insikhwang.github.io/Sikflix/))
+  - 영화, TV시리즈 검색 사이트 "SIKFLIX"는 사용자가 영화 정보를 쉽게 검색하고 조회할 수 있도록 제작된 프로젝트입니다.
+  - 컨텐츠 검색, 컨텐츠 상세 정보 조회, 인기 컨텐츠 목록, 장르별 컨텐츠 목록 등
+
+- **Portfolio Page:** [SIKFLIX]([link-to-repo](https://insikhwang.github.io/Portfolio#works))
+  - 개인 포트폴리오 웹 사이트입니다.
+
+## 📫 How to Reach Me
+
+- Email: [hwanginsik98a@gmail.com](mailto:hwanginsik98a@gmail.com)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=InSIkHwang&show_icons=true&theme=radical)
